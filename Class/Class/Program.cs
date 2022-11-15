@@ -6,7 +6,6 @@ namespace Class
     {
         static void Main(string[] args)
         {
-
             //Request req1 = new Request();
             //req1.Name = "Arzu";
             //req1.Surname = "Goyushova";
@@ -47,9 +46,15 @@ namespace Class
             //int Mspeed = int.Parse(Console.ReadLine());
             //Console.WriteLine(Porsche.Faster(Pspeed, Mspeed));
 
-            Car Mercedes = new Car("Mercedes X90");
-            Console.WriteLine(Mercedes.Model);
-                
+            //Car Mercedes = new Car("Mercedes X90");
+            //Console.WriteLine(Mercedes.Model);
+
+            //Car BMW = new Car("BMW S Class", "Black", 360);
+            //Console.WriteLine($"Model: {BMW.Model}, Color: {BMW.Color}, Speed: {BMW.Speed}");
+
+            Car Ford = new Car();
+            Ford.Honk();
+
             
         }
 
