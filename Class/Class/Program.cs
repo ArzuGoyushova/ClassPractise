@@ -52,10 +52,29 @@ namespace Class
             //Car BMW = new Car("BMW S Class", "Black", 360);
             //Console.WriteLine($"Model: {BMW.Model}, Color: {BMW.Color}, Speed: {BMW.Speed}");
 
-            Car Ford = new Car();
-            Ford.Honk();
+            //Car Ford = new Car();
+            //Ford.Honk();
 
-            
+            Cat cat = new Cat();
+            cat.Name = "Daisy";
+            cat.Paws = 4;
+            Console.WriteLine(cat.Paws);
+            cat.Furr = "Big";
+            cat.Meow();
+            Console.WriteLine(cat.Height);
+
+            Dog dog=new Dog(12);
+            dog.Run();
+            dog.Bark();
+            dog.Name = "jelly";
+            dog.Ears = 2;
+            Console.WriteLine(dog.Height);
+
+            Snake snake = new Snake("Popimi", "Uzundrazova");
+            snake.Name = "Gombulik";
+            snake.Age = 29;
+            Console.WriteLine($"{snake.Name} + {snake.Age} + {snake.Surname}");
+
         }
 
 

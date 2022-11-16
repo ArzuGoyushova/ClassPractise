@@ -39,9 +39,9 @@ namespace Class
         public int Speed;
         //public Car(string modelName, string modelColor, int modelSpeed)
         //{
-        //    //Model = modelName;
-        //    //Color = modelColor;
-        //    //Speed = modelSpeed;
+        //    Model = modelName;
+        //    Color = modelColor;
+        //    Speed = modelSpeed;
         //}
 
 
