@@ -1,0 +1,14 @@
+C:\Users\Администратор\Desktop\ClassPractise\ClassLab\ClassLab\bin\Debug\netcoreapp3.1\ClassLab.exe
+C:\Users\Администратор\Desktop\ClassPractise\ClassLab\ClassLab\bin\Debug\netcoreapp3.1\ClassLab.deps.json
+C:\Users\Администратор\Desktop\ClassPractise\ClassLab\ClassLab\bin\Debug\netcoreapp3.1\ClassLab.runtimeconfig.json
+C:\Users\Администратор\Desktop\ClassPractise\ClassLab\ClassLab\bin\Debug\netcoreapp3.1\ClassLab.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\ClassPractise\ClassLab\ClassLab\bin\Debug\netcoreapp3.1\ClassLab.dll
+C:\Users\Администратор\Desktop\ClassPractise\ClassLab\ClassLab\bin\Debug\netcoreapp3.1\ClassLab.pdb
+C:\Users\Администратор\Desktop\ClassPractise\ClassLab\ClassLab\obj\Debug\netcoreapp3.1\ClassLab.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\ClassPractise\ClassLab\ClassLab\obj\Debug\netcoreapp3.1\ClassLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\ClassPractise\ClassLab\ClassLab\obj\Debug\netcoreapp3.1\ClassLab.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\ClassPractise\ClassLab\ClassLab\obj\Debug\netcoreapp3.1\ClassLab.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\ClassPractise\ClassLab\ClassLab\obj\Debug\netcoreapp3.1\ClassLab.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\ClassPractise\ClassLab\ClassLab\obj\Debug\netcoreapp3.1\ClassLab.dll
+C:\Users\Администратор\Desktop\ClassPractise\ClassLab\ClassLab\obj\Debug\netcoreapp3.1\ClassLab.pdb
+C:\Users\Администратор\Desktop\ClassPractise\ClassLab\ClassLab\obj\Debug\netcoreapp3.1\ClassLab.genruntimeconfig.cache
