@@ -1,0 +1,14 @@
+C:\Users\arzusg\Desktop\Class\ClassPoli\ClassPoli\bin\Debug\netcoreapp3.1\ClassPoli.exe
+C:\Users\arzusg\Desktop\Class\ClassPoli\ClassPoli\bin\Debug\netcoreapp3.1\ClassPoli.deps.json
+C:\Users\arzusg\Desktop\Class\ClassPoli\ClassPoli\bin\Debug\netcoreapp3.1\ClassPoli.runtimeconfig.json
+C:\Users\arzusg\Desktop\Class\ClassPoli\ClassPoli\bin\Debug\netcoreapp3.1\ClassPoli.runtimeconfig.dev.json
+C:\Users\arzusg\Desktop\Class\ClassPoli\ClassPoli\bin\Debug\netcoreapp3.1\ClassPoli.dll
+C:\Users\arzusg\Desktop\Class\ClassPoli\ClassPoli\bin\Debug\netcoreapp3.1\ClassPoli.pdb
+C:\Users\arzusg\Desktop\Class\ClassPoli\ClassPoli\obj\Debug\netcoreapp3.1\ClassPoli.csproj.AssemblyReference.cache
+C:\Users\arzusg\Desktop\Class\ClassPoli\ClassPoli\obj\Debug\netcoreapp3.1\ClassPoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzusg\Desktop\Class\ClassPoli\ClassPoli\obj\Debug\netcoreapp3.1\ClassPoli.AssemblyInfoInputs.cache
+C:\Users\arzusg\Desktop\Class\ClassPoli\ClassPoli\obj\Debug\netcoreapp3.1\ClassPoli.AssemblyInfo.cs
+C:\Users\arzusg\Desktop\Class\ClassPoli\ClassPoli\obj\Debug\netcoreapp3.1\ClassPoli.csproj.CoreCompileInputs.cache
+C:\Users\arzusg\Desktop\Class\ClassPoli\ClassPoli\obj\Debug\netcoreapp3.1\ClassPoli.dll
+C:\Users\arzusg\Desktop\Class\ClassPoli\ClassPoli\obj\Debug\netcoreapp3.1\ClassPoli.pdb
+C:\Users\arzusg\Desktop\Class\ClassPoli\ClassPoli\obj\Debug\netcoreapp3.1\ClassPoli.genruntimeconfig.cache
