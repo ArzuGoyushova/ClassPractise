@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.VisualBasic;
+using System;
 
 namespace AbstractClass
 {
@@ -14,11 +15,14 @@ namespace AbstractClass
             TajMahal tajMahal = new TajMahal();
             tajMahal.Built();
             tajMahal.History();
+            //tajMahal.year = 1632;
+            Console.WriteLine($"Age: {tajMahal.Age(tajMahal.year)}");
             
             Colosseum colosseum = new Colosseum();
             colosseum.Built();
             colosseum.History();
-            colosseum = new Colosseum();
+            Console.WriteLine($"Age: {colosseum.Age(colosseum.year)}");
+
 
             //Architecture[] arr = {tajMahal, colosseum};
             //foreach (var item in arr)
@@ -32,6 +36,10 @@ namespace AbstractClass
 
     abstract class Architecture
     {
+        public int Age(int year)
+        {
+            return 2022 - year;
+        }
         public abstract void Built();
         public virtual void Damaged()
         {
@@ -58,6 +66,7 @@ namespace AbstractClass
 
     class TajMahal : Miracles
     {
+        public int year=1632;
         public override void Built()
         {
             Console.WriteLine("Taj Mahal was built a long time ago.");
@@ -71,6 +80,7 @@ namespace AbstractClass
 
     class Colosseum : Miracles
     {
+        public int year = -72;
         public override void Built()
         {
             Console.WriteLine("Colosseum was built a long time ago.");
