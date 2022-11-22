@@ -1,0 +1,14 @@
+C:\Users\Администратор\Desktop\AccessModifiersTasks\InterfacePractise\InterfacePractise\bin\Debug\netcoreapp3.1\InterfacePractise.exe
+C:\Users\Администратор\Desktop\AccessModifiersTasks\InterfacePractise\InterfacePractise\bin\Debug\netcoreapp3.1\InterfacePractise.deps.json
+C:\Users\Администратор\Desktop\AccessModifiersTasks\InterfacePractise\InterfacePractise\bin\Debug\netcoreapp3.1\InterfacePractise.runtimeconfig.json
+C:\Users\Администратор\Desktop\AccessModifiersTasks\InterfacePractise\InterfacePractise\bin\Debug\netcoreapp3.1\InterfacePractise.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\AccessModifiersTasks\InterfacePractise\InterfacePractise\bin\Debug\netcoreapp3.1\InterfacePractise.dll
+C:\Users\Администратор\Desktop\AccessModifiersTasks\InterfacePractise\InterfacePractise\bin\Debug\netcoreapp3.1\InterfacePractise.pdb
+C:\Users\Администратор\Desktop\AccessModifiersTasks\InterfacePractise\InterfacePractise\obj\Debug\netcoreapp3.1\InterfacePractise.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\AccessModifiersTasks\InterfacePractise\InterfacePractise\obj\Debug\netcoreapp3.1\InterfacePractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\AccessModifiersTasks\InterfacePractise\InterfacePractise\obj\Debug\netcoreapp3.1\InterfacePractise.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\AccessModifiersTasks\InterfacePractise\InterfacePractise\obj\Debug\netcoreapp3.1\InterfacePractise.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\AccessModifiersTasks\InterfacePractise\InterfacePractise\obj\Debug\netcoreapp3.1\InterfacePractise.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\AccessModifiersTasks\InterfacePractise\InterfacePractise\obj\Debug\netcoreapp3.1\InterfacePractise.dll
+C:\Users\Администратор\Desktop\AccessModifiersTasks\InterfacePractise\InterfacePractise\obj\Debug\netcoreapp3.1\InterfacePractise.pdb
+C:\Users\Администратор\Desktop\AccessModifiersTasks\InterfacePractise\InterfacePractise\obj\Debug\netcoreapp3.1\InterfacePractise.genruntimeconfig.cache
