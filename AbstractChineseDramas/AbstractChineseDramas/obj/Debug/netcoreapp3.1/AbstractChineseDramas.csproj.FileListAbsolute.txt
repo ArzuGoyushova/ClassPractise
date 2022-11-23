@@ -1,0 +1,14 @@
+C:\Users\Администратор\Desktop\AccessModifiersTasks\AbstractChineseDramas\AbstractChineseDramas\bin\Debug\netcoreapp3.1\AbstractChineseDramas.exe
+C:\Users\Администратор\Desktop\AccessModifiersTasks\AbstractChineseDramas\AbstractChineseDramas\bin\Debug\netcoreapp3.1\AbstractChineseDramas.deps.json
+C:\Users\Администратор\Desktop\AccessModifiersTasks\AbstractChineseDramas\AbstractChineseDramas\bin\Debug\netcoreapp3.1\AbstractChineseDramas.runtimeconfig.json
+C:\Users\Администратор\Desktop\AccessModifiersTasks\AbstractChineseDramas\AbstractChineseDramas\bin\Debug\netcoreapp3.1\AbstractChineseDramas.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\AccessModifiersTasks\AbstractChineseDramas\AbstractChineseDramas\bin\Debug\netcoreapp3.1\AbstractChineseDramas.dll
+C:\Users\Администратор\Desktop\AccessModifiersTasks\AbstractChineseDramas\AbstractChineseDramas\bin\Debug\netcoreapp3.1\AbstractChineseDramas.pdb
+C:\Users\Администратор\Desktop\AccessModifiersTasks\AbstractChineseDramas\AbstractChineseDramas\obj\Debug\netcoreapp3.1\AbstractChineseDramas.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\AccessModifiersTasks\AbstractChineseDramas\AbstractChineseDramas\obj\Debug\netcoreapp3.1\AbstractChineseDramas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\AccessModifiersTasks\AbstractChineseDramas\AbstractChineseDramas\obj\Debug\netcoreapp3.1\AbstractChineseDramas.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\AccessModifiersTasks\AbstractChineseDramas\AbstractChineseDramas\obj\Debug\netcoreapp3.1\AbstractChineseDramas.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\AccessModifiersTasks\AbstractChineseDramas\AbstractChineseDramas\obj\Debug\netcoreapp3.1\AbstractChineseDramas.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\AccessModifiersTasks\AbstractChineseDramas\AbstractChineseDramas\obj\Debug\netcoreapp3.1\AbstractChineseDramas.dll
+C:\Users\Администратор\Desktop\AccessModifiersTasks\AbstractChineseDramas\AbstractChineseDramas\obj\Debug\netcoreapp3.1\AbstractChineseDramas.pdb
+C:\Users\Администратор\Desktop\AccessModifiersTasks\AbstractChineseDramas\AbstractChineseDramas\obj\Debug\netcoreapp3.1\AbstractChineseDramas.genruntimeconfig.cache
