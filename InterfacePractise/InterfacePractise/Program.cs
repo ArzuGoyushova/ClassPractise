@@ -9,6 +9,9 @@ namespace InterfacePractise
         {
             Paint paint = new Paint();
             paint.PaintWalls("purple");
+            Console.WriteLine(paint.AmountOfPaint(200));
+            Console.WriteLine(paint.Mixed("blue", "red", "purple"));
+            paint.Pattern("stripes");
         }
     }
 }
