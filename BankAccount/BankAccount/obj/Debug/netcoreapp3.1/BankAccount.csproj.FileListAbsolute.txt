@@ -1,0 +1,14 @@
+C:\Users\Администратор\Desktop\AccessModifiersTasks\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.exe
+C:\Users\Администратор\Desktop\AccessModifiersTasks\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+C:\Users\Администратор\Desktop\AccessModifiersTasks\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+C:\Users\Администратор\Desktop\AccessModifiersTasks\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\AccessModifiersTasks\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\Администратор\Desktop\AccessModifiersTasks\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\Администратор\Desktop\AccessModifiersTasks\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\AccessModifiersTasks\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\AccessModifiersTasks\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\AccessModifiersTasks\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\AccessModifiersTasks\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\AccessModifiersTasks\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\Администратор\Desktop\AccessModifiersTasks\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\Администратор\Desktop\AccessModifiersTasks\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.genruntimeconfig.cache
