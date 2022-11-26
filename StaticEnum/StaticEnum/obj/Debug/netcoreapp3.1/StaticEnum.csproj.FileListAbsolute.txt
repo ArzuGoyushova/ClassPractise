@@ -1,0 +1,14 @@
+C:\Users\arzusg\Desktop\Class\StaticEnum\StaticEnum\bin\Debug\netcoreapp3.1\StaticEnum.exe
+C:\Users\arzusg\Desktop\Class\StaticEnum\StaticEnum\bin\Debug\netcoreapp3.1\StaticEnum.deps.json
+C:\Users\arzusg\Desktop\Class\StaticEnum\StaticEnum\bin\Debug\netcoreapp3.1\StaticEnum.runtimeconfig.json
+C:\Users\arzusg\Desktop\Class\StaticEnum\StaticEnum\bin\Debug\netcoreapp3.1\StaticEnum.runtimeconfig.dev.json
+C:\Users\arzusg\Desktop\Class\StaticEnum\StaticEnum\bin\Debug\netcoreapp3.1\StaticEnum.dll
+C:\Users\arzusg\Desktop\Class\StaticEnum\StaticEnum\bin\Debug\netcoreapp3.1\StaticEnum.pdb
+C:\Users\arzusg\Desktop\Class\StaticEnum\StaticEnum\obj\Debug\netcoreapp3.1\StaticEnum.csproj.AssemblyReference.cache
+C:\Users\arzusg\Desktop\Class\StaticEnum\StaticEnum\obj\Debug\netcoreapp3.1\StaticEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzusg\Desktop\Class\StaticEnum\StaticEnum\obj\Debug\netcoreapp3.1\StaticEnum.AssemblyInfoInputs.cache
+C:\Users\arzusg\Desktop\Class\StaticEnum\StaticEnum\obj\Debug\netcoreapp3.1\StaticEnum.AssemblyInfo.cs
+C:\Users\arzusg\Desktop\Class\StaticEnum\StaticEnum\obj\Debug\netcoreapp3.1\StaticEnum.csproj.CoreCompileInputs.cache
+C:\Users\arzusg\Desktop\Class\StaticEnum\StaticEnum\obj\Debug\netcoreapp3.1\StaticEnum.dll
+C:\Users\arzusg\Desktop\Class\StaticEnum\StaticEnum\obj\Debug\netcoreapp3.1\StaticEnum.pdb
+C:\Users\arzusg\Desktop\Class\StaticEnum\StaticEnum\obj\Debug\netcoreapp3.1\StaticEnum.genruntimeconfig.cache
