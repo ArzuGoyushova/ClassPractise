@@ -30,9 +30,11 @@ namespace StaticEnum
         //    }
         //    return count;
         //}
-        public static int Count(this string sentence, string search)
-        {
-           return Regex.Matches(sentence, search).Count;
-        }
+        //public static int Count(this string sentence, string search)
+        //{
+        //   return Regex.Matches(sentence, search).Count;
+        //}
+
+
     }
 }
