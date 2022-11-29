@@ -1,0 +1,14 @@
+C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\obj\Debug\netcoreapp3.1\PractiseOverall.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\obj\Debug\netcoreapp3.1\PractiseOverall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\obj\Debug\netcoreapp3.1\PractiseOverall.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\obj\Debug\netcoreapp3.1\PractiseOverall.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\obj\Debug\netcoreapp3.1\PractiseOverall.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\bin\Debug\netcoreapp3.1\PractiseOverall.exe
+C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\bin\Debug\netcoreapp3.1\PractiseOverall.deps.json
+C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\bin\Debug\netcoreapp3.1\PractiseOverall.runtimeconfig.json
+C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\bin\Debug\netcoreapp3.1\PractiseOverall.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\bin\Debug\netcoreapp3.1\PractiseOverall.dll
+C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\bin\Debug\netcoreapp3.1\PractiseOverall.pdb
+C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\obj\Debug\netcoreapp3.1\PractiseOverall.dll
+C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\obj\Debug\netcoreapp3.1\PractiseOverall.pdb
+C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\obj\Debug\netcoreapp3.1\PractiseOverall.genruntimeconfig.cache
