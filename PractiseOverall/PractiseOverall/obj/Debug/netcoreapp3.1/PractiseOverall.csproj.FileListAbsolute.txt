@@ -12,3 +12,6 @@ C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall
 C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\obj\Debug\netcoreapp3.1\PractiseOverall.dll
 C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\obj\Debug\netcoreapp3.1\PractiseOverall.pdb
 C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\obj\Debug\netcoreapp3.1\PractiseOverall.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\Администратор\Desktop\AccessModifiersTasks\PractiseOverall\PractiseOverall\obj\Debug\netcoreapp3.1\PractiseOverall.csproj.CopyComplete
