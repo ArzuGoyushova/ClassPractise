@@ -1,0 +1,14 @@
+C:\Users\Администратор\Desktop\UserAccount\PracticeRefOut\PracticeRefOut\bin\Debug\netcoreapp3.1\PracticeRefOut.exe
+C:\Users\Администратор\Desktop\UserAccount\PracticeRefOut\PracticeRefOut\bin\Debug\netcoreapp3.1\PracticeRefOut.deps.json
+C:\Users\Администратор\Desktop\UserAccount\PracticeRefOut\PracticeRefOut\bin\Debug\netcoreapp3.1\PracticeRefOut.runtimeconfig.json
+C:\Users\Администратор\Desktop\UserAccount\PracticeRefOut\PracticeRefOut\bin\Debug\netcoreapp3.1\PracticeRefOut.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\UserAccount\PracticeRefOut\PracticeRefOut\bin\Debug\netcoreapp3.1\PracticeRefOut.dll
+C:\Users\Администратор\Desktop\UserAccount\PracticeRefOut\PracticeRefOut\bin\Debug\netcoreapp3.1\PracticeRefOut.pdb
+C:\Users\Администратор\Desktop\UserAccount\PracticeRefOut\PracticeRefOut\obj\Debug\netcoreapp3.1\PracticeRefOut.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\UserAccount\PracticeRefOut\PracticeRefOut\obj\Debug\netcoreapp3.1\PracticeRefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\UserAccount\PracticeRefOut\PracticeRefOut\obj\Debug\netcoreapp3.1\PracticeRefOut.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\UserAccount\PracticeRefOut\PracticeRefOut\obj\Debug\netcoreapp3.1\PracticeRefOut.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\UserAccount\PracticeRefOut\PracticeRefOut\obj\Debug\netcoreapp3.1\PracticeRefOut.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\UserAccount\PracticeRefOut\PracticeRefOut\obj\Debug\netcoreapp3.1\PracticeRefOut.dll
+C:\Users\Администратор\Desktop\UserAccount\PracticeRefOut\PracticeRefOut\obj\Debug\netcoreapp3.1\PracticeRefOut.pdb
+C:\Users\Администратор\Desktop\UserAccount\PracticeRefOut\PracticeRefOut\obj\Debug\netcoreapp3.1\PracticeRefOut.genruntimeconfig.cache
