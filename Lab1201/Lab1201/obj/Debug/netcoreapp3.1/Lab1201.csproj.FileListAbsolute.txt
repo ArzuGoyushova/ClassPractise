@@ -1,0 +1,14 @@
+C:\Users\Администратор\Desktop\UserAccount\Lab1201\Lab1201\bin\Debug\netcoreapp3.1\Lab1201.exe
+C:\Users\Администратор\Desktop\UserAccount\Lab1201\Lab1201\bin\Debug\netcoreapp3.1\Lab1201.deps.json
+C:\Users\Администратор\Desktop\UserAccount\Lab1201\Lab1201\bin\Debug\netcoreapp3.1\Lab1201.runtimeconfig.json
+C:\Users\Администратор\Desktop\UserAccount\Lab1201\Lab1201\bin\Debug\netcoreapp3.1\Lab1201.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\UserAccount\Lab1201\Lab1201\bin\Debug\netcoreapp3.1\Lab1201.dll
+C:\Users\Администратор\Desktop\UserAccount\Lab1201\Lab1201\bin\Debug\netcoreapp3.1\Lab1201.pdb
+C:\Users\Администратор\Desktop\UserAccount\Lab1201\Lab1201\obj\Debug\netcoreapp3.1\Lab1201.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\UserAccount\Lab1201\Lab1201\obj\Debug\netcoreapp3.1\Lab1201.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\UserAccount\Lab1201\Lab1201\obj\Debug\netcoreapp3.1\Lab1201.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\UserAccount\Lab1201\Lab1201\obj\Debug\netcoreapp3.1\Lab1201.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\UserAccount\Lab1201\Lab1201\obj\Debug\netcoreapp3.1\Lab1201.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\UserAccount\Lab1201\Lab1201\obj\Debug\netcoreapp3.1\Lab1201.dll
+C:\Users\Администратор\Desktop\UserAccount\Lab1201\Lab1201\obj\Debug\netcoreapp3.1\Lab1201.pdb
+C:\Users\Администратор\Desktop\UserAccount\Lab1201\Lab1201\obj\Debug\netcoreapp3.1\Lab1201.genruntimeconfig.cache
