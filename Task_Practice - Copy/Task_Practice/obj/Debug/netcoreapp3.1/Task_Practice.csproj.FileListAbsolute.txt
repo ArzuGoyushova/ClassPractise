@@ -1,0 +1,17 @@
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\bin\Debug\netcoreapp3.1\Task_Practice.exe
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\bin\Debug\netcoreapp3.1\Task_Practice.deps.json
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\bin\Debug\netcoreapp3.1\Task_Practice.runtimeconfig.json
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\bin\Debug\netcoreapp3.1\Task_Practice.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\bin\Debug\netcoreapp3.1\Task_Practice.dll
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\bin\Debug\netcoreapp3.1\Task_Practice.pdb
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_Practice.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_Practice.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_Practice.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_Practice.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_Practice.dll
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_Practice.pdb
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_Practice.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_Practice.csproj.CopyComplete

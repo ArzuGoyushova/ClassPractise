@@ -1,0 +1,10 @@
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Service\obj\Debug\netcoreapp3.1\Service.pdb

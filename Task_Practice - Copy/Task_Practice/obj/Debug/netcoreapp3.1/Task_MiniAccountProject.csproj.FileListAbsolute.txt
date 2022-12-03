@@ -1,0 +1,17 @@
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\bin\Debug\netcoreapp3.1\Task_MiniAccountProject.exe
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\bin\Debug\netcoreapp3.1\Task_MiniAccountProject.deps.json
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\bin\Debug\netcoreapp3.1\Task_MiniAccountProject.runtimeconfig.json
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\bin\Debug\netcoreapp3.1\Task_MiniAccountProject.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\bin\Debug\netcoreapp3.1\Task_MiniAccountProject.dll
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\bin\Debug\netcoreapp3.1\Task_MiniAccountProject.pdb
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_MiniAccountProject.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_MiniAccountProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_MiniAccountProject.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_MiniAccountProject.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_MiniAccountProject.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_MiniAccountProject.csproj.CopyComplete
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_MiniAccountProject.dll
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_MiniAccountProject.pdb
+C:\Users\Администратор\Desktop\TaskPractice\Task_Practice\Task_Practice\obj\Debug\netcoreapp3.1\Task_MiniAccountProject.genruntimeconfig.cache
