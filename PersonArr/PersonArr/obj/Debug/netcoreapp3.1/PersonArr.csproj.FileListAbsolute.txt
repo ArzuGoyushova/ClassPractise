@@ -1,0 +1,14 @@
+C:\Users\arzusg\Desktop\Class\PersonArr\PersonArr\bin\Debug\netcoreapp3.1\PersonArr.exe
+C:\Users\arzusg\Desktop\Class\PersonArr\PersonArr\bin\Debug\netcoreapp3.1\PersonArr.deps.json
+C:\Users\arzusg\Desktop\Class\PersonArr\PersonArr\bin\Debug\netcoreapp3.1\PersonArr.runtimeconfig.json
+C:\Users\arzusg\Desktop\Class\PersonArr\PersonArr\bin\Debug\netcoreapp3.1\PersonArr.runtimeconfig.dev.json
+C:\Users\arzusg\Desktop\Class\PersonArr\PersonArr\bin\Debug\netcoreapp3.1\PersonArr.dll
+C:\Users\arzusg\Desktop\Class\PersonArr\PersonArr\bin\Debug\netcoreapp3.1\PersonArr.pdb
+C:\Users\arzusg\Desktop\Class\PersonArr\PersonArr\obj\Debug\netcoreapp3.1\PersonArr.csproj.AssemblyReference.cache
+C:\Users\arzusg\Desktop\Class\PersonArr\PersonArr\obj\Debug\netcoreapp3.1\PersonArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzusg\Desktop\Class\PersonArr\PersonArr\obj\Debug\netcoreapp3.1\PersonArr.AssemblyInfoInputs.cache
+C:\Users\arzusg\Desktop\Class\PersonArr\PersonArr\obj\Debug\netcoreapp3.1\PersonArr.AssemblyInfo.cs
+C:\Users\arzusg\Desktop\Class\PersonArr\PersonArr\obj\Debug\netcoreapp3.1\PersonArr.csproj.CoreCompileInputs.cache
+C:\Users\arzusg\Desktop\Class\PersonArr\PersonArr\obj\Debug\netcoreapp3.1\PersonArr.dll
+C:\Users\arzusg\Desktop\Class\PersonArr\PersonArr\obj\Debug\netcoreapp3.1\PersonArr.pdb
+C:\Users\arzusg\Desktop\Class\PersonArr\PersonArr\obj\Debug\netcoreapp3.1\PersonArr.genruntimeconfig.cache
