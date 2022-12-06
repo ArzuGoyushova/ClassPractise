@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CelsiusToKelvin/1.0.0": {
+        "runtime": {
+          "CelsiusToKelvin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CelsiusToKelvin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

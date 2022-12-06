@@ -1,0 +1,14 @@
+C:\Users\Администратор\Desktop\ImplicitExplicit\CelsiusToKelvin\CelsiusToKelvin\bin\Debug\netcoreapp3.1\CelsiusToKelvin.exe
+C:\Users\Администратор\Desktop\ImplicitExplicit\CelsiusToKelvin\CelsiusToKelvin\bin\Debug\netcoreapp3.1\CelsiusToKelvin.deps.json
+C:\Users\Администратор\Desktop\ImplicitExplicit\CelsiusToKelvin\CelsiusToKelvin\bin\Debug\netcoreapp3.1\CelsiusToKelvin.runtimeconfig.json
+C:\Users\Администратор\Desktop\ImplicitExplicit\CelsiusToKelvin\CelsiusToKelvin\bin\Debug\netcoreapp3.1\CelsiusToKelvin.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\ImplicitExplicit\CelsiusToKelvin\CelsiusToKelvin\bin\Debug\netcoreapp3.1\CelsiusToKelvin.dll
+C:\Users\Администратор\Desktop\ImplicitExplicit\CelsiusToKelvin\CelsiusToKelvin\bin\Debug\netcoreapp3.1\CelsiusToKelvin.pdb
+C:\Users\Администратор\Desktop\ImplicitExplicit\CelsiusToKelvin\CelsiusToKelvin\obj\Debug\netcoreapp3.1\CelsiusToKelvin.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\ImplicitExplicit\CelsiusToKelvin\CelsiusToKelvin\obj\Debug\netcoreapp3.1\CelsiusToKelvin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\ImplicitExplicit\CelsiusToKelvin\CelsiusToKelvin\obj\Debug\netcoreapp3.1\CelsiusToKelvin.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\ImplicitExplicit\CelsiusToKelvin\CelsiusToKelvin\obj\Debug\netcoreapp3.1\CelsiusToKelvin.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\ImplicitExplicit\CelsiusToKelvin\CelsiusToKelvin\obj\Debug\netcoreapp3.1\CelsiusToKelvin.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\ImplicitExplicit\CelsiusToKelvin\CelsiusToKelvin\obj\Debug\netcoreapp3.1\CelsiusToKelvin.dll
+C:\Users\Администратор\Desktop\ImplicitExplicit\CelsiusToKelvin\CelsiusToKelvin\obj\Debug\netcoreapp3.1\CelsiusToKelvin.pdb
+C:\Users\Администратор\Desktop\ImplicitExplicit\CelsiusToKelvin\CelsiusToKelvin\obj\Debug\netcoreapp3.1\CelsiusToKelvin.genruntimeconfig.cache
