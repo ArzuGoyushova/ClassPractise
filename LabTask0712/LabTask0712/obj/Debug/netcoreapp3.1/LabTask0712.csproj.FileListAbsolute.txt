@@ -1,0 +1,17 @@
+C:\Users\arzusg\Desktop\Task\LabTask0712\LabTask0712\bin\Debug\netcoreapp3.1\LabTask0712.exe
+C:\Users\arzusg\Desktop\Task\LabTask0712\LabTask0712\bin\Debug\netcoreapp3.1\LabTask0712.deps.json
+C:\Users\arzusg\Desktop\Task\LabTask0712\LabTask0712\bin\Debug\netcoreapp3.1\LabTask0712.runtimeconfig.json
+C:\Users\arzusg\Desktop\Task\LabTask0712\LabTask0712\bin\Debug\netcoreapp3.1\LabTask0712.runtimeconfig.dev.json
+C:\Users\arzusg\Desktop\Task\LabTask0712\LabTask0712\bin\Debug\netcoreapp3.1\LabTask0712.dll
+C:\Users\arzusg\Desktop\Task\LabTask0712\LabTask0712\bin\Debug\netcoreapp3.1\LabTask0712.pdb
+C:\Users\arzusg\Desktop\Task\LabTask0712\LabTask0712\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\arzusg\Desktop\Task\LabTask0712\LabTask0712\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\arzusg\Desktop\Task\LabTask0712\LabTask0712\obj\Debug\netcoreapp3.1\LabTask0712.csproj.AssemblyReference.cache
+C:\Users\arzusg\Desktop\Task\LabTask0712\LabTask0712\obj\Debug\netcoreapp3.1\LabTask0712.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzusg\Desktop\Task\LabTask0712\LabTask0712\obj\Debug\netcoreapp3.1\LabTask0712.AssemblyInfoInputs.cache
+C:\Users\arzusg\Desktop\Task\LabTask0712\LabTask0712\obj\Debug\netcoreapp3.1\LabTask0712.AssemblyInfo.cs
+C:\Users\arzusg\Desktop\Task\LabTask0712\LabTask0712\obj\Debug\netcoreapp3.1\LabTask0712.csproj.CoreCompileInputs.cache
+C:\Users\arzusg\Desktop\Task\LabTask0712\LabTask0712\obj\Debug\netcoreapp3.1\LabTask0712.csproj.CopyComplete
+C:\Users\arzusg\Desktop\Task\LabTask0712\LabTask0712\obj\Debug\netcoreapp3.1\LabTask0712.dll
+C:\Users\arzusg\Desktop\Task\LabTask0712\LabTask0712\obj\Debug\netcoreapp3.1\LabTask0712.pdb
+C:\Users\arzusg\Desktop\Task\LabTask0712\LabTask0712\obj\Debug\netcoreapp3.1\LabTask0712.genruntimeconfig.cache
