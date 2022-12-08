@@ -1,0 +1,14 @@
+C:\Users\Администратор\Desktop\ImplicitExplicit\Pharmacy\Pharmacy\bin\Debug\netcoreapp3.1\Pharmacy.exe
+C:\Users\Администратор\Desktop\ImplicitExplicit\Pharmacy\Pharmacy\bin\Debug\netcoreapp3.1\Pharmacy.deps.json
+C:\Users\Администратор\Desktop\ImplicitExplicit\Pharmacy\Pharmacy\bin\Debug\netcoreapp3.1\Pharmacy.runtimeconfig.json
+C:\Users\Администратор\Desktop\ImplicitExplicit\Pharmacy\Pharmacy\bin\Debug\netcoreapp3.1\Pharmacy.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\ImplicitExplicit\Pharmacy\Pharmacy\bin\Debug\netcoreapp3.1\Pharmacy.dll
+C:\Users\Администратор\Desktop\ImplicitExplicit\Pharmacy\Pharmacy\bin\Debug\netcoreapp3.1\Pharmacy.pdb
+C:\Users\Администратор\Desktop\ImplicitExplicit\Pharmacy\Pharmacy\obj\Debug\netcoreapp3.1\Pharmacy.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\ImplicitExplicit\Pharmacy\Pharmacy\obj\Debug\netcoreapp3.1\Pharmacy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\ImplicitExplicit\Pharmacy\Pharmacy\obj\Debug\netcoreapp3.1\Pharmacy.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\ImplicitExplicit\Pharmacy\Pharmacy\obj\Debug\netcoreapp3.1\Pharmacy.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\ImplicitExplicit\Pharmacy\Pharmacy\obj\Debug\netcoreapp3.1\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\ImplicitExplicit\Pharmacy\Pharmacy\obj\Debug\netcoreapp3.1\Pharmacy.dll
+C:\Users\Администратор\Desktop\ImplicitExplicit\Pharmacy\Pharmacy\obj\Debug\netcoreapp3.1\Pharmacy.pdb
+C:\Users\Администратор\Desktop\ImplicitExplicit\Pharmacy\Pharmacy\obj\Debug\netcoreapp3.1\Pharmacy.genruntimeconfig.cache
