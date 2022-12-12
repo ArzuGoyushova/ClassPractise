@@ -16,19 +16,26 @@ namespace ImplicitExplicitOperators
             //Person person = (Person)angel;
             //Console.WriteLine(person.Age);
 
-            Person person1 = new Person("Arzu", "Goyushova", 26, 3000);
-            person1.BirthDay=DateTime.Now.AddYears(-26);
+           // Person person1 = new Person("Arzu", "Goyushova", 26, 3000);
+           // person1.BirthDay=DateTime.Now.AddYears(-26);
            // Console.WriteLine(person1.BirthDay);
-            Person person2 = new Person("Sevinc", "Mehdi", 28, 4000);
-            Person person3 = new Person("Manash", "Mohteshem", 3, 9999999);
+           // Person person2 = new Person("Sevinc", "Mehdi", 28, 4000);
+           // Person person3 = new Person("Manash", "Mohteshem", 3, 9999999);
 
             //Console.WriteLine(person1>person2);
-            Person[] arr = { person1, person2 };
-            Array.Sort(arr);
-            foreach(var item in arr)
-            {
-                Console.WriteLine(item.Name);
-            }
+            //Person[] arr = { person1, person2 };
+            //Array.Sort(arr);
+            //foreach(var item in arr)
+            //{
+            //    Console.WriteLine(item.Name);
+            //}
+
+            MyList<string> mylist = new MyList<string>();
+            mylist.Add("arzu");
+            mylist.GetAll();
+
+            MyList<Person> mylist2 = new MyList<Person>();
+            //mylist2.Add(new Person("arzu",))
             
         }
     }
@@ -101,6 +108,28 @@ namespace ImplicitExplicitOperators
         public int CompareTo(object obj)
         {
             return ((Person)obj).Age.CompareTo(this.Age);
+        }
+    }
+
+    class MyList<T> where T : Person
+    {
+        private T[] arr;
+        public MyList()
+        {
+            arr= new T[0];
+        }
+
+        public void Add(T element)
+        {
+            Array.Resize(ref arr, arr.Length+1);
+            arr[arr.Length-1]= element;
+        }
+        public void GetAll()
+        {
+            foreach(var item in arr)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
