@@ -1,0 +1,14 @@
+C:\Users\Администратор\Desktop\Delegate\NizamiTask\NizamiTask\obj\Debug\netcoreapp3.1\NizamiTask.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Delegate\NizamiTask\NizamiTask\obj\Debug\netcoreapp3.1\NizamiTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Delegate\NizamiTask\NizamiTask\obj\Debug\netcoreapp3.1\NizamiTask.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Delegate\NizamiTask\NizamiTask\obj\Debug\netcoreapp3.1\NizamiTask.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Delegate\NizamiTask\NizamiTask\obj\Debug\netcoreapp3.1\NizamiTask.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Delegate\NizamiTask\NizamiTask\bin\Debug\netcoreapp3.1\NizamiTask.exe
+C:\Users\Администратор\Desktop\Delegate\NizamiTask\NizamiTask\bin\Debug\netcoreapp3.1\NizamiTask.deps.json
+C:\Users\Администратор\Desktop\Delegate\NizamiTask\NizamiTask\bin\Debug\netcoreapp3.1\NizamiTask.runtimeconfig.json
+C:\Users\Администратор\Desktop\Delegate\NizamiTask\NizamiTask\bin\Debug\netcoreapp3.1\NizamiTask.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\Delegate\NizamiTask\NizamiTask\bin\Debug\netcoreapp3.1\NizamiTask.dll
+C:\Users\Администратор\Desktop\Delegate\NizamiTask\NizamiTask\bin\Debug\netcoreapp3.1\NizamiTask.pdb
+C:\Users\Администратор\Desktop\Delegate\NizamiTask\NizamiTask\obj\Debug\netcoreapp3.1\NizamiTask.dll
+C:\Users\Администратор\Desktop\Delegate\NizamiTask\NizamiTask\obj\Debug\netcoreapp3.1\NizamiTask.pdb
+C:\Users\Администратор\Desktop\Delegate\NizamiTask\NizamiTask\obj\Debug\netcoreapp3.1\NizamiTask.genruntimeconfig.cache
