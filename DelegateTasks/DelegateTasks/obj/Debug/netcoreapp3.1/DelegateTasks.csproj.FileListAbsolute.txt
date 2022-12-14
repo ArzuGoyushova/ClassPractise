@@ -1,0 +1,14 @@
+C:\Users\Администратор\Desktop\Delegate\DelegateTasks\DelegateTasks\bin\Debug\netcoreapp3.1\DelegateTasks.exe
+C:\Users\Администратор\Desktop\Delegate\DelegateTasks\DelegateTasks\bin\Debug\netcoreapp3.1\DelegateTasks.deps.json
+C:\Users\Администратор\Desktop\Delegate\DelegateTasks\DelegateTasks\bin\Debug\netcoreapp3.1\DelegateTasks.runtimeconfig.json
+C:\Users\Администратор\Desktop\Delegate\DelegateTasks\DelegateTasks\bin\Debug\netcoreapp3.1\DelegateTasks.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\Delegate\DelegateTasks\DelegateTasks\bin\Debug\netcoreapp3.1\DelegateTasks.dll
+C:\Users\Администратор\Desktop\Delegate\DelegateTasks\DelegateTasks\bin\Debug\netcoreapp3.1\DelegateTasks.pdb
+C:\Users\Администратор\Desktop\Delegate\DelegateTasks\DelegateTasks\obj\Debug\netcoreapp3.1\DelegateTasks.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Delegate\DelegateTasks\DelegateTasks\obj\Debug\netcoreapp3.1\DelegateTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Delegate\DelegateTasks\DelegateTasks\obj\Debug\netcoreapp3.1\DelegateTasks.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Delegate\DelegateTasks\DelegateTasks\obj\Debug\netcoreapp3.1\DelegateTasks.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Delegate\DelegateTasks\DelegateTasks\obj\Debug\netcoreapp3.1\DelegateTasks.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Delegate\DelegateTasks\DelegateTasks\obj\Debug\netcoreapp3.1\DelegateTasks.dll
+C:\Users\Администратор\Desktop\Delegate\DelegateTasks\DelegateTasks\obj\Debug\netcoreapp3.1\DelegateTasks.pdb
+C:\Users\Администратор\Desktop\Delegate\DelegateTasks\DelegateTasks\obj\Debug\netcoreapp3.1\DelegateTasks.genruntimeconfig.cache
