@@ -11,12 +11,14 @@ namespace DelegateTasks
             Dollar(azn => azn * 1.7);
             LastSong((s, l) => s + l);
             DprIan(sentence => Console.WriteLine(sentence.ToLower()),"You're So Beautiful");
+            Trim(trimmed => Console.WriteLine(trimmed.Trim()), "   Let me raise a toast  ");
+            RusRuleti(sh => sh == 6, 6);
         }
 
         public static void Spell(Action<char> function, string spelling)
         {
             char[] arr=spelling.ToCharArray();
-             for (int i=0; i<arr.Length; i++)
+            for (int i=0; i<arr.Length; i++)
             {
                 function(arr[i]);
             }
@@ -46,6 +48,22 @@ namespace DelegateTasks
         {
             
             wow(message);
+        }
+        public static void Trim(Action<string> trim, string withSpaces)
+        {
+            trim(withSpaces);
+        }
+        public static void RusRuleti(Func<int, bool> count, int shootCount)
+        {
+           if(count(shootCount))
+            {
+                Console.WriteLine("dead");
+            }
+            else
+            {
+                Console.WriteLine("not sure");
+            }
+            
         }
     }
 }
