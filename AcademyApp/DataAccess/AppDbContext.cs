@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace DataAccess
 {
-    public class AppDbContext
+    public static class AppDbContext
     {
         public static List<Student> Students { get; set; }
         public static List<Group> Groups { get; set; }
-        public AppDbContext()
+        static AppDbContext()
         {
             Students = new List<Student>();
             Groups = new List<Group>();

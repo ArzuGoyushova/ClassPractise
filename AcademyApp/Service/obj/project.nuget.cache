@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ht14XZJQbwoYOVisrpM8+2R0pmqmbJJpTC1pU0jRgFiflwyG7xbSkPEqO9NELawlxUIV45i+Flr5e591EE11Aw==",
+  "dgSpecHash": "vQ4xcJrc2E6zVnuOqgdKVKgT5pMATZviGwri+L2NSjuETpppmlkWI8txlqPz0lpKtGIkDfRbYWUL4iWpolCN9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arzusg\\Desktop\\ConsoleApp\\AcademyApp\\Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\arzusg\\Desktop\\ConsoleApp\\AcademyApp\\Service\\Business.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

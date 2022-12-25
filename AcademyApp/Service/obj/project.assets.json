@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arzusg\\Desktop\\ConsoleApp\\AcademyApp\\Service\\Service.csproj",
-      "projectName": "Service",
-      "projectPath": "C:\\Users\\arzusg\\Desktop\\ConsoleApp\\AcademyApp\\Service\\Service.csproj",
+      "projectUniqueName": "C:\\Users\\arzusg\\Desktop\\ConsoleApp\\AcademyApp\\Service\\Business.csproj",
+      "projectName": "Business",
+      "projectPath": "C:\\Users\\arzusg\\Desktop\\ConsoleApp\\AcademyApp\\Service\\Business.csproj",
       "packagesPath": "C:\\Users\\arzusg\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\arzusg\\Desktop\\ConsoleApp\\AcademyApp\\Service\\obj\\",
       "projectStyle": "PackageReference",

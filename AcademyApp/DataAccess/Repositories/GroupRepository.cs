@@ -45,12 +45,14 @@ namespace DataAccess.Repositories
                 Group existGroup=Get(group=>group.Id == entity.Id);
                 if (existGroup != null)
                 {
+                    existGroup=entity;
                     return true;
                 }
+                return false;
             }
-            catch
+            catch (Exception)
             {
-
+                throw;
             }
         }
     }
