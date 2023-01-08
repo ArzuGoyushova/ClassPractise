@@ -1,0 +1,15 @@
+C:\Users\arzusg\Desktop\ConsoleApp\AsyncThread\AsyncThread\AsyncThread\bin\Debug\net6.0\AsyncThread.exe
+C:\Users\arzusg\Desktop\ConsoleApp\AsyncThread\AsyncThread\AsyncThread\bin\Debug\net6.0\AsyncThread.deps.json
+C:\Users\arzusg\Desktop\ConsoleApp\AsyncThread\AsyncThread\AsyncThread\bin\Debug\net6.0\AsyncThread.runtimeconfig.json
+C:\Users\arzusg\Desktop\ConsoleApp\AsyncThread\AsyncThread\AsyncThread\bin\Debug\net6.0\AsyncThread.dll
+C:\Users\arzusg\Desktop\ConsoleApp\AsyncThread\AsyncThread\AsyncThread\bin\Debug\net6.0\AsyncThread.pdb
+C:\Users\arzusg\Desktop\ConsoleApp\AsyncThread\AsyncThread\AsyncThread\obj\Debug\net6.0\AsyncThread.csproj.AssemblyReference.cache
+C:\Users\arzusg\Desktop\ConsoleApp\AsyncThread\AsyncThread\AsyncThread\obj\Debug\net6.0\AsyncThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzusg\Desktop\ConsoleApp\AsyncThread\AsyncThread\AsyncThread\obj\Debug\net6.0\AsyncThread.AssemblyInfoInputs.cache
+C:\Users\arzusg\Desktop\ConsoleApp\AsyncThread\AsyncThread\AsyncThread\obj\Debug\net6.0\AsyncThread.AssemblyInfo.cs
+C:\Users\arzusg\Desktop\ConsoleApp\AsyncThread\AsyncThread\AsyncThread\obj\Debug\net6.0\AsyncThread.csproj.CoreCompileInputs.cache
+C:\Users\arzusg\Desktop\ConsoleApp\AsyncThread\AsyncThread\AsyncThread\obj\Debug\net6.0\AsyncThread.dll
+C:\Users\arzusg\Desktop\ConsoleApp\AsyncThread\AsyncThread\AsyncThread\obj\Debug\net6.0\refint\AsyncThread.dll
+C:\Users\arzusg\Desktop\ConsoleApp\AsyncThread\AsyncThread\AsyncThread\obj\Debug\net6.0\AsyncThread.pdb
+C:\Users\arzusg\Desktop\ConsoleApp\AsyncThread\AsyncThread\AsyncThread\obj\Debug\net6.0\AsyncThread.genruntimeconfig.cache
+C:\Users\arzusg\Desktop\ConsoleApp\AsyncThread\AsyncThread\AsyncThread\obj\Debug\net6.0\ref\AsyncThread.dll
